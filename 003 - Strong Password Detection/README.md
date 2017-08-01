@@ -5,5 +5,5 @@ Check if a password is strong.
 
 - [ ] Java
 - [ ] Python
-- [ ] Javascript
+- [X] Javascript
 
