@@ -5,5 +5,5 @@ Generates strong passwords randomly and from sentence.
 
 - [ ] Java
 - [ ] Python
-- [ ] Javascript
+- [x] Javascript
 
