@@ -3,7 +3,7 @@
 
 Fibonacci Sequence generator and number from index calculator.
 
-- [ ] Java
+- [x] Java
 - [ ] Python
 - [ ] Javascript
 
