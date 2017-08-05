@@ -4,5 +4,5 @@
 Generates the folders and md file for this project.
 
 - [ ] Java
-- [ ] Python
+- [x] Python
 

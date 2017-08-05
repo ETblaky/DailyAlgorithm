@@ -4,5 +4,5 @@
 Binary to decimal converter.
 
 - [ ] Java
-- [ ] Python
+- [x] Python
 - [ ] Javascript

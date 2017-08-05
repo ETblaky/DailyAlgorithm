@@ -3,6 +3,6 @@
 
 Calculates Pitagoras and verify if a triangle is a Right Triangle.
 
-- [ ] Java
+- [x] Java
 - [ ] Python
 - [ ] Javascript
