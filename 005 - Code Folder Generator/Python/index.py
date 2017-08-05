@@ -23,7 +23,7 @@ for i in range(0, zeros_len): zeros+="0"
 
 proj_name = input("What's the project name? \n")
 pathlib.Path('../../' + zeros + str(nxt) + " - " + proj_name).mkdir(parents=True, exist_ok=True)
-pathlib.Path('../../' + zeros + str(nxt) + " - " + proj_name + "/java").mkdir(parents=True, exist_ok=True)
+pathlib.Path('../../' + zeros + str(nxt) + " - " + proj_name + "/Java").mkdir(parents=True, exist_ok=True)
 pathlib.Path('../../' + zeros + str(nxt) + " - " + proj_name + "/Python").mkdir(parents=True, exist_ok=True)
 pathlib.Path('../../' + zeros + str(nxt) + " - " + proj_name + "/Javascript").mkdir(parents=True, exist_ok=True)
 
